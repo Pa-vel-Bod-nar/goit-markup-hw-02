@@ -44,7 +44,7 @@ ul {
   color: inherit;
 }
 
-.nav-menu:hover {
+.nav-menu:hover, .nav-menu:focus {
 color: #404bbf;
 }
 
