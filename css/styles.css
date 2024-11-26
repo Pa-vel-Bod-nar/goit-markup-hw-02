@@ -25,7 +25,7 @@ ul {
   color: #4d5ae5;
 }
 
-.logo:hover {
+.logo:hover, .logo:focus {
   color: #404bbf;
 }
 
@@ -34,7 +34,6 @@ ul {
 }
 .logo-web {
   color: #2e2f42;
-
 }
 
 .nav-menu {
@@ -155,7 +154,7 @@ color: #2e2f42;
 .prtf-card-name {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -168,3 +167,16 @@ color: #2e2f42;
     color: #434455;
   }
 
+  .footer {
+    background-color: #2e2f42;
+  }
+
+  .logo-web-fr {
+    color: #f4f4fd;
+  }
+
+  .footer-text {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+  }
