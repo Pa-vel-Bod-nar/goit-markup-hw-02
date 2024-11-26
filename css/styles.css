@@ -25,6 +25,10 @@ ul {
   color: #4d5ae5;
 }
 
+.logo:hover {
+  color: #404bbf;
+}
+
 .nav {
   color: #2e2f42;
 }
@@ -107,7 +111,7 @@ color: #404bbf;
 }
 
 .team {
-  background-color: ;#F4F4FD;
+  background-color: #F4F4FD;
 }
 
 .team-title {
@@ -117,6 +121,7 @@ color: #404bbf;
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
+  text-transform: capitalize;
 }
 
 .team-card {
@@ -150,19 +155,13 @@ color: #2e2f42;
 .prtf-card-name {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
-.content-app {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
 
-  .prtf-card-tex {
+  .prtf-card-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
