@@ -52,8 +52,16 @@ color: #404bbf;
   color: #434455;
 }
 
-.contacts:hover, .contacts:focus {
+.contacts:hover  {
   color: #404bbf;
+}
+
+.contacts:focus {
+  color: #404bbf;
+}
+
+.address {
+  font-style:normal;
 }
 
 .hero {
@@ -161,4 +169,3 @@ color: #2e2f42;
     color: #434455;
   }
 
-  
